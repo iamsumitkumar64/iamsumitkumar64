@@ -1,81 +1,76 @@
-# 👨‍🎓✨ Parmeet Kumar Github Profile
+# 👨‍🎓✨ Sumit Kumar — MERN Developer & AI/ML Enthusiast
 
 ---
+
 <div align="center">
-  
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90"/>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90" />
 
 **Welcome to My Portfolio!**
 
 *Crafted with ❤️, Code, and Creativity!*
+
 </div>
 
 ---
 
 ## 🧑‍💼 About Me
 
-- **Name:** Parmeet Kumar
+- **Name:** Sumit Kumar  
+- **Current Focus:** MERN Stack Developer | Aspiring AI/ML Engineer  
+- 🚀 Building scalable web apps now, transitioning into AI/ML space soon!
+
 ---
 
 ## 🚀 Skills & Technologies
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E0E0E0?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS3-E0E0E0?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-E0E0E0?style=for-the-badge&logo=javascript&logoColor=yellow)
+![React](https://img.shields.io/badge/React-E0E0E0?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-E0E0E0?style=for-the-badge&logo=nodedotjs&logoColor=green)
+![Express](https://img.shields.io/badge/Express-E0E0E0?style=for-the-badge&logo=express&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-E0E0E0?style=for-the-badge&logo=mongodb&logoColor=green)
+![Python](https://img.shields.io/badge/Python-E0E0E0?style=for-the-badge&logo=python&logoColor=blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-E0E0E0?style=for-the-badge&logo=tensorflow&logoColor=orange)
 
 </div>
 
 ---
 
-## 🏅 Achievements & Certifications
-
-> _"Your achievements are your stepping stones to success!"_
-
-- _[Add your achievements and certifications here, with icons or emojis!]_
-
----
-
 ## 💻 Projects
 
-> _"Showcasing what I’ve built..."_
+> _Showcasing what I’ve built so far with live demos hosted on Vercel!_
 
-*Add your projects below. For each project, mention:*
+### 🌟 [MERN Blog App](https://mern-blog-sumit.vercel.app)
 
-```
-### 🌟 Project Title
-
-- **Description:** _[Brief overview of the project]_
-- **Technologies:** _[Tech used, e.g., React, Node.js, etc.]_
-- **Link:** _[Deployed link or GitHub repo]_
-- **Screenshots:**  
-  ![image1](image1)
-```
+- **Description:** A full-stack blog platform with authentication, CRUD features, and responsive UI.  
+- **Technologies:** React, Node.js, Express, MongoDB  
+- **Repo:** [github.com/iamsumitkumar64/mern-blog](https://github.com/iamsumitkumar64/mern-blog)  
+- ![Blog Screenshot](https://user-images.githubusercontent.com/yourusername/project-screenshot1.png)
 
 ---
 
-## 📄 Project Template
+### 🌟 [AI Image Classifier (In Progress)](https://ai-image-classifier-sumit.vercel.app)
 
-> _"Copy & fill for each project!"_
+- **Description:** An AI-powered image classifier using TensorFlow.js and React. Currently in development.  
+- **Technologies:** React, TensorFlow.js, Python (backend)  
+- **Repo:** [github.com/iamsumitkumar64/ai-image-classifier](https://github.com/iamsumitkumar64/ai-image-classifier)  
+- ![AI Screenshot](https://user-images.githubusercontent.com/yourusername/project-screenshot2.png)
 
-```
-### Project Title
+---
 
-- **Description:** 
-- **Technologies:** 
-- **Link:** 
-```
+## 📫 Contact Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iam.sumitkumar64@gmail.com)  
+[![Phone](https://img.shields.io/badge/Phone-9992528037-E0E0E0?style=for-the-badge&logo=phone&logoColor=black)](tel:+9992528037)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsumitkumar64)  
+
+</div>
 
 ---
 
@@ -83,12 +78,12 @@
 
 - 🍳 Cooking creative dishes  
 - 🎬 Watching inspirational movies  
-- 🏸 Badminton
+- 🏸 Badminton  
 - 🎮 Gaming
 
 ---
 
-## 🌟 Fun Facts & Quotes
+## 🌟 Fun Quotes
 
 > "The only way to do great work is to love what you do." – Steve Jobs  
 > "Success is not the key to happiness. Happiness is the key to success." – Albert Schweitzer
@@ -97,7 +92,6 @@
 
 <div align="center">
 
-✨ _Thanks for visiting my portfolio!_ ✨  
-*Let’s connect and create something awesome together!* 🚀
+✨ Thanks for stopping by! Let’s build the future together. 🚀
 
 </div>
