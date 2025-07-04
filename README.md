@@ -58,7 +58,7 @@
 
 ## 📫 Contact Me
 
-<div align="center">
+<div align="center" style="display:flex">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iam.sumitkumar64@gmail.com)  
 [![Phone](https://img.shields.io/badge/Phone-9992528037-E0E0E0?style=for-the-badge&logo=phone&logoColor=black)](tel:+9992528037)  
