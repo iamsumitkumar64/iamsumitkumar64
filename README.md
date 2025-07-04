@@ -4,7 +4,7 @@
 
 <h2>🧑‍💼 About Me</h2>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: nowrap; align-items: center; max-width: 1000px; margin: auto;">
+<div style="display: flex;">
   <div style="flex: 0 0 40%; text-align: center; padding: 10px;">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90" alt="hi gif" /><br>
     <strong>Welcome to My Portfolio!</strong><br>
@@ -58,13 +58,13 @@
 
 ## 📫 Contact Me
 
-<div align="center" style="display:flex">
+<p align="center" style="display:flex">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iam.sumitkumar64@gmail.com)  
 [![Phone](https://img.shields.io/badge/Phone-9992528037-E0E0E0?style=for-the-badge&logo=phone&logoColor=black)](tel:+9992528037)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsumitkumar64)  
 
-</div>
+</p>
 
 ---
 
@@ -85,7 +85,5 @@
 ---
 
 <div align="center">
-
-✨ Thanks for stopping by! Let’s build the future together. 🚀
-
+✨ <b>Thanks for stopping by!</b> Let’s build something amazing together. 🚀
 </div>
