@@ -39,28 +39,10 @@
 </div>
 
 ---
-
 ## 💻 Projects
 
-> _Showcasing what I’ve built so far with live demos hosted on Vercel!_
-
-### 🌟 [MERN Blog App](https://mern-blog-sumit.vercel.app)
-
-- **Description:** A full-stack blog platform with authentication, CRUD features, and responsive UI.  
-- **Technologies:** React, Node.js, Express, MongoDB  
-- **Repo:** [github.com/iamsumitkumar64/mern-blog](https://github.com/iamsumitkumar64/mern-blog)  
-- ![Blog Screenshot](https://user-images.githubusercontent.com/yourusername/project-screenshot1.png)
-
----
-
-### 🌟 [AI Image Classifier (In Progress)](https://ai-image-classifier-sumit.vercel.app)
-
-- **Description:** An AI-powered image classifier using TensorFlow.js and React. Currently in development.  
-- **Technologies:** React, TensorFlow.js, Python (backend)  
-- **Repo:** [github.com/iamsumitkumar64/ai-image-classifier](https://github.com/iamsumitkumar64/ai-image-classifier)  
-- ![AI Screenshot](https://user-images.githubusercontent.com/yourusername/project-screenshot2.png)
-
----
+> _I’ve hosted most of my projects on Vercel. You can explore the live sites and code in my GitHub repositories._  
+> 🔗 Visit 👉 [github.com/iamsumitkumar64](https://github.com/iamsumitkumar64)
 
 ## 📫 Contact Me
 
