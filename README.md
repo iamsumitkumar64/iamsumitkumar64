@@ -1,15 +1,16 @@
 # 👨‍🎓✨ Sumit Kumar — MERN Developer & AI/ML Enthusiast
 
 ---
+
 <h2>🧑‍💼 About Me</h2>
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px; text-align: center; padding: 10px;">
+<div style="display: flex; justify-content: space-between; flex-wrap: nowrap; align-items: center; max-width: 1000px; margin: auto;">
+  <div style="flex: 0 0 40%; text-align: center; padding: 10px;">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90" alt="hi gif" /><br>
     <strong>Welcome to My Portfolio!</strong><br>
     <em>Crafted with ❤️, Code, and Creativity!</em>
   </div>
-  <div style="flex: 2; min-width: 250px; padding: 10px;">
+  <div style="flex: 1; padding: 10px;">
     <ul>
       <li><strong>Name:</strong> Sumit Kumar</li>
       <li><strong>Current Focus:</strong> MERN Stack Developer | Aspiring AI/ML Engineer</li>
@@ -17,6 +18,7 @@
     </ul>
   </div>
 </div>
+
 ---
 
 ## 🚀 Skills & Technologies
