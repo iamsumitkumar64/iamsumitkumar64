@@ -2,23 +2,24 @@
 
 ---
 
-<div align="center">
+<h2>🧑‍💼 About Me</h2>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90" />
-
-**Welcome to My Portfolio!**
-
-*Crafted with ❤️, Code, and Creativity!*
-
-</div>
-
----
-
-## 🧑‍💼 About Me
-
-- **Name:** Sumit Kumar  
-- **Current Focus:** MERN Stack Developer | Aspiring AI/ML Engineer  
-- 🚀 Building scalable web apps now, transitioning into AI/ML space soon!
+<table>
+  <tr>
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90" /><br>
+      <strong>Welcome to My Portfolio!</strong><br>
+      <em>Crafted with ❤️, Code, and Creativity!</em>
+    </td>
+    <td valign="top" width="60%">
+      <ul>
+        <li><strong>Name:</strong> Sumit Kumar</li>
+        <li><strong>Current Focus:</strong> MERN Stack Developer | Aspiring AI/ML Engineer</li>
+        <li>🚀 Building scalable web apps now, transitioning into AI/ML space soon!</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -26,15 +27,15 @@
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E0E0E0?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/CSS3-E0E0E0?style=for-the-badge&logo=css3&logoColor=blue)
+![HTML5](https://img.shields.io/badge/HTML-E0E0E0?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS-E0E0E0?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E0E0E0?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![React](https://img.shields.io/badge/React-E0E0E0?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-E0E0E0?style=for-the-badge&logo=nodedotjs&logoColor=green)
 ![Express](https://img.shields.io/badge/Express-E0E0E0?style=for-the-badge&logo=express&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-E0E0E0?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Python](https://img.shields.io/badge/Python-E0E0E0?style=for-the-badge&logo=python&logoColor=blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-E0E0E0?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![TensorFlow](https://img.shields.io/badge/DjanGo-E0E0E0?style=for-the-badge&logo=tensorflow&logoColor=orange)
 
 </div>
 
@@ -42,7 +43,7 @@
 ## 💻 Projects
 
 > _I’ve hosted most of my projects on Vercel. You can explore the live sites and code in my GitHub repositories._  
-> 🔗 Visit 👉 [github.com/iamsumitkumar64](https://github.com/iamsumitkumar64)
+> 🔗 Visit 👉 [github.com/iamsumitkumar64](https://github.com/iamsumitkumar64?tab=repositories)
 
 ## 📫 Contact Me
 
