@@ -5,15 +5,16 @@
 <div align="center">
   <h2>👨‍💻 Sumit Kumar — MERN Developer | AI/ML Enthusiast</h2>
 </div>
+<h2 align="center">👨‍💻 Sumit Kumar — MERN Developer | AI/ML Enthusiast</h2>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="200">
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90" alt="Hi gif"/><br>
-      <strong>Welcome to My Portfolio!</strong><br>
+    <td align="center" width="200" style="vertical-align: top; padding: 10px;">
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90" alt="Hi gif" /><br />
+      <strong>Welcome to My Portfolio!</strong><br />
       <em>Crafted with ❤️, Code, and Creativity!</em>
     </td>
-    <td>
+    <td style="vertical-align: top; padding: 10px;">
       <ul>
         <li><strong>Name:</strong> Sumit Kumar</li>
         <li><strong>Current Focus:</strong> MERN Stack Developer | Aspiring AI/ML Engineer</li>
@@ -22,6 +23,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
