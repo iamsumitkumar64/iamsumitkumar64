@@ -1,7 +1,4 @@
-## 🧑‍💼 About Me
 <h2 align="center">👨‍💻 MERN Developer | AI/ML Enthusiast</h2>
-
----
 
 ## 🚀 Skills & Technologies
 
