@@ -1,25 +1,5 @@
 ## 🧑‍💼 About Me
-
-> Welcome To My Digital Space — Engineered With Passion, Precision, And Purpose.
-
-<h2 align="center">👨‍💻 Sumit Kumar — MERN Developer | AI/ML Enthusiast</h2>
-
-<div style="width:100%; display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: center;">
-
-  <div style="display: inline-block; text-align: center; padding: 10px; width: 200px;">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90" alt="Hi gif" /><br/>
-    <strong>Welcome To My Portfolio!</strong><br/>
-    <em>Crafted With ❤️, Code, And Creativity!</em>
-  </div>
-
-  <div style="display: inline-block; padding: 10px; max-width: 400px;">
-    <ul>
-      <li><strong>Current Focus:</strong> MERN Stack Developer | Aspiring AI/ML Engineer</li>
-      <li>🚀 Building Scalable Web Apps Now, Transitioning Into The AI/ML Space Soon!</li>
-    </ul>
-  </div>
-
-</div>
+<h2 align="center">👨‍💻 MERN Developer | AI/ML Enthusiast</h2>
 
 ---
 
