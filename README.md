@@ -41,6 +41,7 @@
 
 </div>
 ---
+
 ## 🏅 Achievements & Certifications
 
 > _"Your achievements are your stepping stones to success!"_
