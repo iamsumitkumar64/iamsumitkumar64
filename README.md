@@ -22,20 +22,32 @@
 ---
 
 ## 🚀 Skills & Technologies
-
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML-E0E0E0?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/CSS-E0E0E0?style=for-the-badge&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-E0E0E0?style=for-the-badge&logo=javascript&logoColor=yellow)
-![React](https://img.shields.io/badge/React-E0E0E0?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-E0E0E0?style=for-the-badge&logo=nodedotjs&logoColor=green)
-![Express](https://img.shields.io/badge/Express-E0E0E0?style=for-the-badge&logo=express&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-E0E0E0?style=for-the-badge&logo=mongodb&logoColor=green)
-![Python](https://img.shields.io/badge/Python-E0E0E0?style=for-the-badge&logo=python&logoColor=blue)
-![TensorFlow](https://img.shields.io/badge/DjanGo-E0E0E0?style=for-the-badge&logo=tensorflow&logoColor=orange)
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="40"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="40"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="40"/>
 
 </div>
+---
+## 🏅 Achievements & Certifications
+
+> _"Your achievements are your stepping stones to success!"_
+
+- 🪖 Member of **NCC** (National Cadet Corps) during senior secondary school  
+- 🧑‍🤝‍🧑 Active participant in **NSS** (National Service Scheme) in college  
+- 🥈 Secured **2nd place in on-spot coding** at **Zerone IT Fest**, Arya PG College
 
 ---
 ## 💻 Projects
