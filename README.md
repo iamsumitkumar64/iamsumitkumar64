@@ -1,7 +1,3 @@
-# 👨‍💻 Sumit Kumar — MERN Stack Developer | AI/ML Enthusiast
-
----
-
 ## 🧑‍💼 About Me
 
 > Welcome to my digital space — engineered with passion, precision, and purpose.
@@ -10,25 +6,22 @@
   <h2>👨‍💻 Sumit Kumar — MERN Developer | AI/ML Enthusiast</h2>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 20px;">
-
-  <!-- Left Column -->
-  <div style="flex: 0 0 200px; text-align: center; padding: 10px;">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90" alt="Waving hand" /><br />
-    <strong>Welcome to My Portfolio!</strong><br />
-    <em>Crafted with ❤️, Code, and Creativity!</em>
-  </div>
-
-  <!-- Right Column -->
-  <div style="flex: 1; min-width: 250px; padding: 10px;">
-    <ul>
-      <li><strong>Name:</strong> Sumit Kumar</li>
-      <li><strong>Current Focus:</strong> MERN Stack Developer | Aspiring AI/ML Engineer</li>
-      <li>🚀 Building scalable web apps now, transitioning into the AI/ML space soon!</li>
-    </ul>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90" alt="Hi gif"/><br>
+      <strong>Welcome to My Portfolio!</strong><br>
+      <em>Crafted with ❤️, Code, and Creativity!</em>
+    </td>
+    <td>
+      <ul>
+        <li><strong>Name:</strong> Sumit Kumar</li>
+        <li><strong>Current Focus:</strong> MERN Stack Developer | Aspiring AI/ML Engineer</li>
+        <li>🚀 Building scalable web apps now, transitioning into the AI/ML space soon!</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
