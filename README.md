@@ -1,6 +1,6 @@
 ## 🧑‍💼 About Me
 
-> Welcome to my digital space — engineered with passion, precision, and purpose.
+> Welcome To My Digital Space — Engineered With Passion, Precision, And Purpose.
 
 <h2 align="center">👨‍💻 Sumit Kumar — MERN Developer | AI/ML Enthusiast</h2>
 
@@ -8,15 +8,14 @@
 
   <div style="display: inline-block; text-align: center; padding: 10px; width: 200px;">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90" alt="Hi gif" /><br/>
-    <strong>Welcome to My Portfolio!</strong><br/>
-    <em>Crafted with ❤️, Code, and Creativity!</em>
+    <strong>Welcome To My Portfolio!</strong><br/>
+    <em>Crafted With ❤️, Code, And Creativity!</em>
   </div>
 
   <div style="display: inline-block; padding: 10px; max-width: 400px;">
     <ul>
-      <li><strong>Name:</strong> Sumit Kumar</li>
       <li><strong>Current Focus:</strong> MERN Stack Developer | Aspiring AI/ML Engineer</li>
-      <li>🚀 Building scalable web apps now, transitioning into the AI/ML space soon!</li>
+      <li>🚀 Building Scalable Web Apps Now, Transitioning Into The AI/ML Space Soon!</li>
     </ul>
   </div>
 
@@ -47,17 +46,18 @@
 
 ## 🏅 Achievements & Certifications
 
-> _“Achievements are the milestones of growth.”_
+> _“Achievements Are The Milestones Of Growth.”_
 
-- 🪖 NCC Cadet during senior secondary school  
-- 🤝 Volunteered with **NSS (National Service Scheme)** during college  
-- 🥈 2nd Place – On-Spot Coding at **Zerone IT Fest**, Arya PG College
+- 🪖 NCC Cadet During Senior Secondary School  
+- 🤝 Volunteered With **NSS (National Service Scheme)** During College  
+- 🥈 1st Place – On-Spot Coding At **Zerone24 IT Fest**, Arya PG College
+- 🥈 2nd Place – On-Spot Debugging At **Zerone24 IT Fest**, Arya PG College
 
 ---
 
 ## 💻 Projects
 
-Explore my projects on GitHub, most of which are live on Vercel.
+Explore My Projects On GitHub, Most Of Which Are Live On Vercel.
 
 🔗 [github.com/iamsumitkumar64](https://github.com/iamsumitkumar64?tab=repositories)
 
@@ -81,20 +81,20 @@ Explore my projects on GitHub, most of which are live on Vercel.
 
 ## 🎨 Hobbies & Interests
 
-- 🍳 Cooking unique and creative dishes  
-- 🎬 Watching motivational and insightful films  
-- 🏸 Playing badminton  
-- 🎮 Casual and competitive gaming
+- 🍳 Cooking Unique And Creative Dishes  
+- 🎬 Watching Sci-Fi And Insightful Movies  
+- 🏸 Playing Badminton  
+- 🎮 Casual And Competitive Gaming
 
 ---
 
 ## 🌟 Favorite Quotes
 
-> “The only way to do great work is to love what you do.” – Steve Jobs  
-> “Success is not the key to happiness. Happiness is the key to success.” – Albert Schweitzer
+> “The Only Way To Do Great Work Is To Love What You Do.” – Steve Jobs  
+> “Success Is Not The Key To Happiness. Happiness Is The Key To Success.” – Albert Schweitzer
 
 ---
 
 <p align="center">
-  ✨ <strong>Thanks for visiting!</strong> Let’s build something amazing together. 🚀
+  ✨ <strong>Thanks For Visiting!</strong> Let’s Build Something Amazing Together. 🚀
 </p>
