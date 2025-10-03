@@ -1,7 +1,5 @@
 <h2 align="center">👨‍💻 MERN Developer | Aspiring AI/ML Developer</h2>
 
---- 
-
 ## 🚀 Skills & Technologies
 
 <p align="center">
